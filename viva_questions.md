@@ -1,6 +1,18 @@
 # dbms viva questions
 
 ## what is dbms? ##
+A database management system (DBMS) is a software that controls the storage, organization, and retrieval of data.
+
+- Typically, a DBMS has the following elements:
+Kernel code
+	
+ - This code manages memory and storage for the DBMS.
+-Repository of metadata
+	- This repository is usually called a data dictionary.
+ - Query language
+	- This language enables applications to access the data.
+
+
 ## difference between datastructure and database ##
 ## what is deadlock? ##
 ## how to resolve deadlock? ##
